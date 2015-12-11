@@ -1,2 +1,0 @@
-# snapshot
-Using Webcam Snapshot
